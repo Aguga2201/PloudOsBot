@@ -1,0 +1,18 @@
+{
+  "name": "ploudosbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aguga2201",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http": "0.0.1-security",
+    "mineflayer": "^3.14.1",
+    "mineflayer-antiafk": "^1.1.1",
+    "mineflayer-pathfinder": "^1.9.0"
+  }
+}
